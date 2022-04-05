@@ -30,3 +30,14 @@ dependencies {
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
     testRuntimeOnly 'org.slf4j:slf4j-simple:1.7.29'
 }
+
+tasks.withType(Test) {
+    useJUnitPlatform()
+
+    testLogging {
+        lifecycle {
+            events "started", "skipped", "failed", "standard_error", "standard_out"
+            exceptionFormat "short"
+        }
+    }
+}
