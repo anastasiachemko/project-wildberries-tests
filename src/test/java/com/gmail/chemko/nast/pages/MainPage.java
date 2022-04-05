@@ -42,7 +42,7 @@ public class MainPage {
         }
 
         @Step("Check the search results")
-        public MainPage  checkSearchResult(String expectedResult) {
+        public MainPage  checkSearchResults(String expectedResult) {
             searchResults.shouldHave(Condition.text(expectedResult));
 
             return this;
