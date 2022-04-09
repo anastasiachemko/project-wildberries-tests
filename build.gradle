@@ -23,7 +23,7 @@ tasks.withType(JavaCompile) {
 
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter:5.8.1'
-    testImplementation 'com.codeborne:selenide:5.25.1'
+    testImplementation 'com.codeborne:selenide:6.3.2'
     testImplementation 'io.qameta.allure:allure-selenide:2.16.0'
     testImplementation 'org.aspectj:aspectjweaver:1.9.6'
     testImplementation 'org.aeonbits.owner:owner:1.0.12'
