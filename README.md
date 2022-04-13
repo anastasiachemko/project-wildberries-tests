@@ -25,7 +25,6 @@ Click [here](https://by.wildberries.ru/) to take a look at the website!
 
 ## To run tests locally use:
 
-
 ```
 gradle clean test 
 ```
