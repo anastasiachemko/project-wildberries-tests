@@ -16,7 +16,7 @@ Click [here](https://by.wildberries.ru/) to take a look at the website!
 <a href="https://web.telegram.org/"><img width="50" height="50"  alt="Telegram" src="images\logo\Telegram.svg"></a>
 </p>
 
-## This project has:
+## What is special about this project:
 
 - PageObjects
 - Parameterized build
@@ -40,7 +40,7 @@ Here is a sneak peek of how you can run the tests and which parameters you can s
 </p>
 
 ## Allure report
-Allure Framework is a flexible test report tool that shows a  concise representation of what have been tested in a neat web report form
+Allure Framework is a flexible test report tool that shows a concise representation of what have been tested in a neat web report form
 
 Here are an overview and graphs:
 
@@ -61,4 +61,5 @@ Notifications of test results are sent to Telegram:
 
 ## Video example of a running test from Selenoid
 
-<img src="images/gif/runningTest.gif">
+<img src="images/gif/testVideo.mp4">
+
