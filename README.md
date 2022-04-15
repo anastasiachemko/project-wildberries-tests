@@ -30,7 +30,8 @@ gradle clean test
 ```
 
 ## Jenkins job
-Jenkins is an automation server which lets us run tests.
+Jenkins is an automation server which lets us run tests
+
 Click <a target="_blank" href="https://jenkins.autotests.cloud/job/10-anastasiachemko-project-wildberries">here</a> to see the job for Wildberries website
 
 Here is a sneak peek of how you can run the tests and which parameters you can specify:
@@ -41,6 +42,7 @@ Here is a sneak peek of how you can run the tests and which parameters you can s
 
 ## Allure report
 Allure Framework is a flexible test report tool that shows a concise representation of what have been tested in a neat web report form
+
 Click <a target="_blank" href="https://jenkins.autotests.cloud/job/10-anastasiachemko-project-wildberries/24/allure/#">here</a> to see the report of the tests
 
 Here are an overview and graphs:
