@@ -27,7 +27,7 @@ public class MainPage {
             return this;
         }
 
-        @Step("Check that the logo is visible")
+        @Step("Check that the logo is displayed")
         public MainPage  checkLogo() {
             logo.shouldBe(visible);
 
