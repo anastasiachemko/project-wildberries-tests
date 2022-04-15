@@ -1,4 +1,4 @@
-# This is the Project with UI Autotests on 'Wildberries' website
+# This is the Project with UI Autotests for 'Wildberries' website
 Click [here](https://by.wildberries.ru/) to take a look at the website!
 
 ## Technology Stack used in the project:
