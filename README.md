@@ -62,7 +62,7 @@ Notifications of test results are sent to Telegram:
 <img title="Allure overview" src="images/screens/tgNotification.png">
 </p>
 
-## Video example of a running test from Selenoid
+## Video example of a running test
 
 <img src="images/gif/testVideo.gif">
 
